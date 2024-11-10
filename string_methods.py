@@ -1,5 +1,10 @@
 # Strings
 
+# - Strings are immutable, meaning once created, they cannot be changed.
+# - Strings are created by enclosing characters in single (' '), double (" "), or triple (''' ''' or """ """) quotes.
+# - Used for storing and manipulating textual data, such as messages, file paths, URLs, and any other text-based data.
+# - Ordered (maintains the order of elements as they were added.)
+
 # 1. len() 
 l = [2,90,54,22,67]
 print(len(l))
