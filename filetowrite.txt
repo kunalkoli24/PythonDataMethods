@@ -1,1 +1,0 @@
-This statement is imported from the file_write file
